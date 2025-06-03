@@ -1,0 +1,14 @@
+/* global.css*/
+*{
+    font-size: 15;
+    font-weight: 100;
+}
+h2{
+    color: red;
+}
+h3{
+    color: darkcyan;
+}
+h4{
+    color: coral;
+}
